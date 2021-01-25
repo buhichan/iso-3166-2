@@ -1,0 +1,8 @@
+{
+    "name": "iso_3166_2_json",
+    "version": "0.0.1",
+    "main": "dist/iso_3166_2.js",
+    "devDependencies": {
+        "typescript": "^4.1.3"
+    }
+}
