@@ -5484,96 +5484,96 @@ var iso_3166_2 = {
         lat: 35.86166,
         lng: 104.19539699999996,
     },
-    "CN-11": {
-        code: "CN-11",
+    "CN-BJ": {
+        code: "CN-BJ",
         name: "Beijing",
         division: "municipality",
         parent: "CN",
         lat: 39.904214,
         lng: 116.40741300000002,
     },
-    "CN-50": {
-        code: "CN-50",
+    "CN-CQ": {
+        code: "CN-CQ",
         name: "Chongqing",
         division: "municipality",
         parent: "CN",
         lat: 29.56301,
         lng: 106.551557,
     },
-    "CN-31": {
-        code: "CN-31",
+    "CN-SH": {
+        code: "CN-SH",
         name: "Shanghai",
         division: "municipality",
         parent: "CN",
         lat: 31.230393,
         lng: 121.473704,
     },
-    "CN-12": {
-        code: "CN-12",
+    "CN-TJ": {
+        code: "CN-TJ",
         name: "Tianjin",
         division: "municipality",
         parent: "CN",
         lat: 39.084158,
         lng: 117.20098299999995,
     },
-    "CN-34": {
-        code: "CN-34",
+    "CN-AH": {
+        code: "CN-AH",
         name: "Anhui",
         division: "province",
         parent: "CN",
         lat: 31.844419,
         lng: 117.25433099999998,
     },
-    "CN-35": {
-        code: "CN-35",
+    "CN-FJ": {
+        code: "CN-FJ",
         name: "Fujian",
         division: "province",
         parent: "CN",
         lat: 24.721616,
         lng: 116.1805756,
     },
-    "CN-62": {
-        code: "CN-62",
+    "CN-GS": {
+        code: "CN-GS",
         name: "Gansu",
         division: "province",
         parent: "CN",
         lat: 36.066314,
         lng: 103.77462000000003,
     },
-    "CN-44": {
-        code: "CN-44",
+    "CN-GD": {
+        code: "CN-GD",
         name: "Guangdong",
         division: "province",
         parent: "CN",
         lat: 23.2600355,
         lng: 113.25139000000001,
     },
-    "CN-52": {
-        code: "CN-52",
+    "CN-GZ": {
+        code: "CN-GZ",
         name: "Guizhou",
         division: "province",
         parent: "CN",
         lat: 26.424084,
         lng: 106.67353400000002,
     },
-    "CN-46": {
-        code: "CN-46",
+    "CN-HI": {
+        code: "CN-HI",
         name: "Hainan",
         division: "province",
         parent: "CN",
         lat: 35.8785506,
         lng: 120.05127579999998,
     },
-    "CN-13": {
-        code: "CN-13",
+    "CN-HE": {
+        code: "CN-HE",
         name: "Hebei",
         division: "province",
         parent: "CN",
         lat: 38.3905141,
         lng: 114.85557059999996,
     },
-    "CN-23": {
-        code: "CN-23",
+    "CN-HL": {
+        code: "CN-HL",
         name: "Heilongjiang",
         division: "province",
         parent: "CN",
@@ -5588,168 +5588,168 @@ var iso_3166_2 = {
         lat: 32.1277675,
         lng: 114.07919249999998,
     },
-    "CN-42": {
-        code: "CN-42",
+    "CN-HB": {
+        code: "CN-HB",
         name: "Hubei",
         division: "province",
         parent: "CN",
         lat: 30.9894798,
         lng: 112.87213550000001,
     },
-    "CN-43": {
-        code: "CN-43",
+    "CN-HN": {
+        code: "CN-HN",
         name: "Hunan",
         division: "province",
         parent: "CN",
         lat: 27.2498042,
         lng: 113.6176643,
     },
-    "CN-32": {
-        code: "CN-32",
+    "CN-JS": {
+        code: "CN-JS",
         name: "Jiangsu",
         division: "province",
         parent: "CN",
         lat: 32.0922799,
         lng: 118.61263740000004,
     },
-    "CN-36": {
-        code: "CN-36",
+    "CN-JX": {
+        code: "CN-JX",
         name: "Jiangxi",
         division: "province",
         parent: "CN",
         lat: 29.1557051,
         lng: 113.71576129999994,
     },
-    "CN-22": {
-        code: "CN-22",
+    "CN-JL": {
+        code: "CN-JL",
         name: "Jilin",
         division: "province",
         parent: "CN",
         lat: 43.837883,
         lng: 126.54957200000001,
     },
-    "CN-21": {
-        code: "CN-21",
+    "CN-LN": {
+        code: "CN-LN",
         name: "Liaoning",
         division: "province",
         parent: "CN",
         lat: 41.7315285,
         lng: 123.25759659999994,
     },
-    "CN-63": {
-        code: "CN-63",
+    "CN-QH": {
+        code: "CN-QH",
         name: "Qinghai",
         division: "province",
         parent: "CN",
         lat: 36.085841,
         lng: 120.34038540000006,
     },
-    "CN-61": {
-        code: "CN-61",
+    "CN-SN": {
+        code: "CN-SN",
         name: "Shaanxi",
         division: "province",
         parent: "CN",
         lat: 34.223126,
         lng: 108.95546000000002,
     },
-    "CN-37": {
-        code: "CN-37",
+    "CN-SD": {
+        code: "CN-SD",
         name: "Shandong",
         division: "province",
         parent: "CN",
         lat: 36.674306,
         lng: 117.059933,
     },
-    "CN-14": {
-        code: "CN-14",
+    "CN-SX": {
+        code: "CN-SX",
         name: "Shanxi",
         division: "province",
         parent: "CN",
         lat: 28.4560996,
         lng: 117.92159650000008,
     },
-    "CN-51": {
-        code: "CN-51",
+    "CN-SC": {
+        code: "CN-SC",
         name: "Sichuan",
         division: "province",
         parent: "CN",
         lat: 30.632278,
         lng: 104.08679299999994,
     },
-    "CN-71": {
-        code: "CN-71",
+    "CN-TW": {
+        code: "CN-TW",
         name: "Taiwan",
         division: "province",
         parent: "CN",
         lat: 23.926098,
         lng: 121.02364299999999,
     },
-    "CN-53": {
-        code: "CN-53",
+    "CN-YN": {
+        code: "CN-YN",
         name: "Yunnan",
         division: "province",
         parent: "CN",
         lat: 24.9494565,
         lng: 103.95045290000007,
     },
-    "CN-33": {
-        code: "CN-33",
+    "CN-ZJ": {
+        code: "CN-ZJ",
         name: "Zhejiang",
         division: "province",
         parent: "CN",
         lat: 29.9488786,
         lng: 121.14309350000008,
     },
-    "CN-45": {
-        code: "CN-45",
+    "CN-GX": {
+        code: "CN-GX",
         name: "Guangxi",
         division: "autonomous region",
         parent: "CN",
         lat: 22.826617,
         lng: 108.34412599999996,
     },
-    "CN-15": {
-        code: "CN-15",
+    "CN-NM": {
+        code: "CN-NM",
         name: "Nei Mongol",
         division: "autonomous region",
         parent: "CN",
         lat: 38.852843,
         lng: 105.7008601,
     },
-    "CN-64": {
-        code: "CN-64",
+    "CN-NX": {
+        code: "CN-NX",
         name: "Ningxia",
         division: "autonomous region",
         parent: "CN",
         lat: 31.2313805,
         lng: 121.41378269999996,
     },
-    "CN-65": {
-        code: "CN-65",
+    "CN-XJ": {
+        code: "CN-XJ",
         name: "Xinjiang",
         division: "autonomous region",
         parent: "CN",
         lat: 21.8724583,
         lng: 111.98518769999998,
     },
-    "CN-54": {
-        code: "CN-54",
+    "CN-XZ": {
+        code: "CN-XZ",
         name: "Xizang",
         division: "autonomous region",
         parent: "CN",
         lat: 31.2255567,
         lng: 121.48027649999995,
     },
-    "CN-91": {
-        code: "CN-91",
+    "CN-HK": {
+        code: "CN-HK",
         name: "Xianggang (Hong-Kong)",
         division: "special administrative region",
         parent: "CN",
         lat: 22.284002,
         lng: 114.13783000000001,
     },
-    "CN-92": {
-        code: "CN-92",
+    "CN-MO": {
+        code: "CN-MO",
         name: "Aomen (Macau)",
         division: "special administrative region",
         parent: "CN",
